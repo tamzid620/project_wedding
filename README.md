@@ -1,1 +1,1 @@
-live site link: https://tamzid620.github.io/project_wedding-Next.js/
+live site link: 
